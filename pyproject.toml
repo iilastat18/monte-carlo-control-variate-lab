@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "monte-carlo-control-variate-lab"
+version = "0.1.0"
+description = "Public-facing Monte Carlo control variate pricing project."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Lingxin Lei" }]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

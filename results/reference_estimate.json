@@ -1,0 +1,9 @@
+{
+  "plain_price": 9.51667949525108,
+  "plain_standard_error": 0.02648445239000195,
+  "control_variate_price": 9.52661886629923,
+  "control_variate_standard_error": 0.00112763103733761,
+  "beta": 1.0378773250098587,
+  "variance_reduction_ratio": 551.6300967585464,
+  "analytic_geometric_price": 9.096608048499732
+}

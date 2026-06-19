@@ -1,0 +1,35 @@
+<svg width="1500" height="920" viewBox="0 0 1500 920" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1500" height="920" rx="28" fill="#0B1220"/>
+<text x="150" y="108" fill="#F5F7FB" font-size="40" font-weight="700" font-family="SF Pro Display, Helvetica, Arial, sans-serif">Variance Reduction Factor</text>
+<text x="150" y="146" fill="#91A4BD" font-size="18" font-family="SF Pro Text, Helvetica, Arial, sans-serif">Variance-reduction ratio = plain-variance / control-variate-variance for the same number of paths.</text>
+<line x1="150" y1="780" x2="1350" y2="780" stroke="#32455E" stroke-width="2"/>
+<line x1="150" y1="200" x2="150" y2="780" stroke="#32455E" stroke-width="2"/>
+<line x1="150" y1="780.0" x2="1350" y2="780.0" stroke="#1B2B40" stroke-width="1"/>
+<text x="54" y="786.0" fill="#7890AA" font-size="16" font-family="SF Pro Text, Helvetica, Arial, sans-serif">0.0x</text>
+<line x1="150" y1="635.0" x2="1350" y2="635.0" stroke="#1B2B40" stroke-width="1"/>
+<text x="54" y="641.0" fill="#7890AA" font-size="16" font-family="SF Pro Text, Helvetica, Arial, sans-serif">184.4x</text>
+<line x1="150" y1="490.0" x2="1350" y2="490.0" stroke="#1B2B40" stroke-width="1"/>
+<text x="54" y="496.0" fill="#7890AA" font-size="16" font-family="SF Pro Text, Helvetica, Arial, sans-serif">368.8x</text>
+<line x1="150" y1="345.0" x2="1350" y2="345.0" stroke="#1B2B40" stroke-width="1"/>
+<text x="54" y="351.0" fill="#7890AA" font-size="16" font-family="SF Pro Text, Helvetica, Arial, sans-serif">553.2x</text>
+<line x1="150" y1="200.0" x2="1350" y2="200.0" stroke="#1B2B40" stroke-width="1"/>
+<text x="54" y="206.0" fill="#7890AA" font-size="16" font-family="SF Pro Text, Helvetica, Arial, sans-serif">737.6x</text>
+<rect x="205.0" y="262.1" width="90.0" height="517.9" rx="14" fill="#76F1C5"/>
+<text x="200.0" y="252.1" fill="#D7F9EA" font-size="15" font-family="SF Pro Text, Helvetica, Arial, sans-serif">658.5x</text>
+<text x="218.0" y="820" fill="#AABED6" font-size="15" font-family="SF Pro Text, Helvetica, Arial, sans-serif">2k</text>
+<rect x="405.0" y="306.0" width="90.0" height="474.0" rx="14" fill="#76F1C5"/>
+<text x="400.0" y="296.0" fill="#D7F9EA" font-size="15" font-family="SF Pro Text, Helvetica, Arial, sans-serif">602.8x</text>
+<text x="418.0" y="820" fill="#AABED6" font-size="15" font-family="SF Pro Text, Helvetica, Arial, sans-serif">5k</text>
+<rect x="605.0" y="353.7" width="90.0" height="426.3" rx="14" fill="#76F1C5"/>
+<text x="600.0" y="343.7" fill="#D7F9EA" font-size="15" font-family="SF Pro Text, Helvetica, Arial, sans-serif">542.1x</text>
+<text x="618.0" y="820" fill="#AABED6" font-size="15" font-family="SF Pro Text, Helvetica, Arial, sans-serif">10k</text>
+<rect x="805.0" y="349.4" width="90.0" height="430.6" rx="14" fill="#76F1C5"/>
+<text x="800.0" y="339.4" fill="#D7F9EA" font-size="15" font-family="SF Pro Text, Helvetica, Arial, sans-serif">547.6x</text>
+<text x="818.0" y="820" fill="#AABED6" font-size="15" font-family="SF Pro Text, Helvetica, Arial, sans-serif">25k</text>
+<rect x="1005.0" y="356.8" width="90.0" height="423.2" rx="14" fill="#76F1C5"/>
+<text x="1000.0" y="346.8" fill="#D7F9EA" font-size="15" font-family="SF Pro Text, Helvetica, Arial, sans-serif">538.2x</text>
+<text x="1018.0" y="820" fill="#AABED6" font-size="15" font-family="SF Pro Text, Helvetica, Arial, sans-serif">50k</text>
+<rect x="1205.0" y="340.6" width="90.0" height="439.4" rx="14" fill="#76F1C5"/>
+<text x="1200.0" y="330.6" fill="#D7F9EA" font-size="15" font-family="SF Pro Text, Helvetica, Arial, sans-serif">558.8x</text>
+<text x="1218.0" y="820" fill="#AABED6" font-size="15" font-family="SF Pro Text, Helvetica, Arial, sans-serif">100k</text>
+</svg>

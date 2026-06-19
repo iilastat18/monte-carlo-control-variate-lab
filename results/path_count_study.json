@@ -1,0 +1,56 @@
+[
+  {
+    "number_of_paths": 2000,
+    "plain_price": 9.732875381253663,
+    "plain_standard_error": 0.3392176877106828,
+    "control_variate_price": 9.51941754460762,
+    "control_variate_standard_error": 0.013218569596282643,
+    "beta": 1.0356291201430654,
+    "variance_reduction_ratio": 658.5489398911564
+  },
+  {
+    "number_of_paths": 5000,
+    "plain_price": 9.838742005197224,
+    "plain_standard_error": 0.21423413684503154,
+    "control_variate_price": 9.515745140207178,
+    "control_variate_standard_error": 0.008726082954683361,
+    "beta": 1.0372780280015734,
+    "variance_reduction_ratio": 602.7520186647156
+  },
+  {
+    "number_of_paths": 10000,
+    "plain_price": 9.418865193591927,
+    "plain_standard_error": 0.1435328160239579,
+    "control_variate_price": 9.532450597419672,
+    "control_variate_standard_error": 0.006164705246738441,
+    "beta": 1.0387918218381036,
+    "variance_reduction_ratio": 542.0979663601221
+  },
+  {
+    "number_of_paths": 25000,
+    "plain_price": 9.53296853636498,
+    "plain_standard_error": 0.09211959396272591,
+    "control_variate_price": 9.52472635268466,
+    "control_variate_standard_error": 0.003936481790686506,
+    "beta": 1.0375398660767463,
+    "variance_reduction_ratio": 547.630384611655
+  },
+  {
+    "number_of_paths": 50000,
+    "plain_price": 9.478562516461526,
+    "plain_standard_error": 0.065168569763665,
+    "control_variate_price": 9.52616319523132,
+    "control_variate_standard_error": 0.002809009809026332,
+    "beta": 1.0389335707021234,
+    "variance_reduction_ratio": 538.2324378647845
+  },
+  {
+    "number_of_paths": 100000,
+    "plain_price": 9.500670720373815,
+    "plain_standard_error": 0.046029920505629644,
+    "control_variate_price": 9.524541530665907,
+    "control_variate_standard_error": 0.0019472295837067157,
+    "beta": 1.0378644358130142,
+    "variance_reduction_ratio": 558.7867912877642
+  }
+]
