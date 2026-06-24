@@ -42,21 +42,21 @@
   <rect x="872" y="468" width="616" height="210" rx="26" fill="#262730" stroke="#808495" stroke-width="1.1"/>
   <text x="904" y="512" fill="#FFFFFF" font-size="24" font-weight="700" font-family="Inter, Arial, sans-serif">Estimator signal by path budget</text>
   
-            <text x="996" y="308" fill="#CFCFD0" font-size="18" font-family="Inter, Arial, sans-serif">2k paths</text>
-            <rect x="996" y="318" width="300" height="18" rx="9" fill="#262730"/>
-            <rect x="996" y="318" width="300.0" height="18" rx="9" fill="#6BDBCB"/>
+            <text x="996" y="558" fill="#CFCFD0" font-size="16" font-family="Inter, Arial, sans-serif">2k paths</text>
+            <rect x="996" y="566" width="300" height="18" rx="9" fill="#262730"/>
+            <rect x="996" y="566" width="300.0" height="18" rx="9" fill="#6BDBCB"/>
             
-            <text x="996" y="364" fill="#CFCFD0" font-size="18" font-family="Inter, Arial, sans-serif">10k paths</text>
-            <rect x="996" y="374" width="300" height="18" rx="9" fill="#262730"/>
-            <rect x="996" y="374" width="140.0" height="18" rx="9" fill="#6BDBCB"/>
+            <text x="996" y="586" fill="#CFCFD0" font-size="16" font-family="Inter, Arial, sans-serif">10k paths</text>
+            <rect x="996" y="594" width="300" height="18" rx="9" fill="#262730"/>
+            <rect x="996" y="594" width="140.0" height="18" rx="9" fill="#6BDBCB"/>
             
-            <text x="996" y="420" fill="#CFCFD0" font-size="18" font-family="Inter, Arial, sans-serif">50k paths</text>
-            <rect x="996" y="430" width="300" height="18" rx="9" fill="#262730"/>
-            <rect x="996" y="430" width="63.9" height="18" rx="9" fill="#6BDBCB"/>
+            <text x="996" y="614" fill="#CFCFD0" font-size="16" font-family="Inter, Arial, sans-serif">50k paths</text>
+            <rect x="996" y="622" width="300" height="18" rx="9" fill="#262730"/>
+            <rect x="996" y="622" width="63.9" height="18" rx="9" fill="#6BDBCB"/>
             
-            <text x="996" y="476" fill="#CFCFD0" font-size="18" font-family="Inter, Arial, sans-serif">100k paths</text>
-            <rect x="996" y="486" width="300" height="18" rx="9" fill="#262730"/>
-            <rect x="996" y="486" width="44.3" height="18" rx="9" fill="#6BDBCB"/>
+            <text x="996" y="642" fill="#CFCFD0" font-size="16" font-family="Inter, Arial, sans-serif">100k paths</text>
+            <rect x="996" y="650" width="300" height="18" rx="9" fill="#262730"/>
+            <rect x="996" y="650" width="44.3" height="18" rx="9" fill="#6BDBCB"/>
             
 
   
@@ -78,5 +78,5 @@
       <text x="658" y="788" fill="#FFC880" font-size="40" font-weight="700" font-family="Inter, Arial, sans-serif">1.038</text>
     </g>
     
-  <text x="86" y="864" fill="#808495" font-size="20" font-family="Inter, Arial, sans-serif">monte-carlo-control-variate-lab • public portfolio project with reproducible outputs and README-ready visuals</text>
+  <text x="86" y="844" fill="#808495" font-size="18" font-family="Inter, Arial, sans-serif">monte-carlo-control-variate-lab • public portfolio project with reproducible outputs and README-ready visuals</text>
 </svg>
