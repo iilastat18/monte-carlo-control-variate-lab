@@ -58,14 +58,21 @@ PYTHONPATH=src python3 -m unittest discover -s tests -v
 - `results/path_count_study.csv`
 - `results/path_count_study.json`
 - `results/reference_estimate.json`
+- `results/price_stability_comparison.svg`
 - `results/standard_error_comparison.svg`
 - `results/variance_reduction_ratio.svg`
+- `results/control_beta_profile.svg`
 
 ## Preview
 
-![Standard error comparison](results/standard_error_comparison.svg)
-
-![Variance reduction ratio](results/variance_reduction_ratio.svg)
+<p align="center">
+  <img src="results/standard_error_comparison.svg" width="49%" alt="Standard error comparison" />
+  <img src="results/variance_reduction_ratio.svg" width="49%" alt="Variance reduction ratio" />
+</p>
+<p align="center">
+  <img src="results/price_stability_comparison.svg" width="49%" alt="Price stability comparison" />
+  <img src="results/control_beta_profile.svg" width="49%" alt="Control beta profile" />
+</p>
 
 ## Example Results
 
