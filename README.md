@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Monte Carlo Control Variate Lab</h1>
   <p><strong>A public-facing pricing project for arithmetic Asian options under Black-Scholes using a geometric-Asian control variate to reduce Monte Carlo noise.</strong></p>
-  <p>Built as an independent portfolio project inspired by numerical-methods coursework, but rewritten around experiments, estimator comparison, and public-facing presentation.</p>
+  <p>Built as a compact portfolio project around experiments, estimator comparison, and visual presentation.</p>
 </div>
 
 <p align="center">
@@ -106,6 +106,5 @@ monte-carlo-control-variate-lab/
 
 ## Notes
 
-- This is an independent public rebuild, not a classroom repository mirror.
 - The emphasis is on estimator design and result quality, not on framework complexity.
 - The project is intentionally compact so the variance-reduction mechanism is easy to explain in an interview.
