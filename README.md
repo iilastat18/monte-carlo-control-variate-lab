@@ -37,6 +37,44 @@ That makes the geometric Asian option a natural control variate:
 
 The result is a clear before-and-after experiment showing how estimator quality improves without increasing model complexity.
 
+## Core Formulas
+
+Under the Black-Scholes dynamics used in the repo,
+
+$$
+dS_t = r S_t\,dt + \sigma S_t\,dW_t.
+$$
+
+The arithmetic and geometric averaging functionals are
+
+$$
+A_{\text{arith}} = \frac{1}{n}\sum_{i=1}^n S_{t_i},
+\qquad
+A_{\text{geo}} = \exp\left(\frac{1}{n}\sum_{i=1}^n \log S_{t_i}\right).
+$$
+
+The target payoff is the discounted arithmetic-Asian call:
+
+$$
+X = e^{-rT}(A_{\text{arith}} - K)^+.
+$$
+
+The control variate is the discounted geometric-Asian call
+
+$$
+Y = e^{-rT}(A_{\text{geo}} - K)^+,
+$$
+
+whose expectation is available in closed form in this setup.
+
+The adjusted estimator used in the project is
+
+$$
+\hat V_{\text{CV}} = \bar X - \beta(\bar Y - \mathbb{E}[Y]),
+\qquad
+\beta^\star = \frac{\operatorname{Cov}(X,Y)}{\operatorname{Var}(Y)}.
+$$
+
 ## What It Shows
 
 - path simulation under Black-Scholes at discrete averaging times
